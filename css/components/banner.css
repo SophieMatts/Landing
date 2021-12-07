@@ -1,0 +1,32 @@
+.banner-hero {
+  color: white;
+  background-size: cover;
+  padding: 150px 0;
+}
+
+.banner-hero h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.banner-hero p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
+.banner-how-it-works {
+  color: black;
+  text-align: center;
+  background-size: cover;
+  padding: 15px 0;
+}
+
+.banner-how-it-works h1 {
+  font-size: 25px;
+}

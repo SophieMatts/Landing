@@ -1,0 +1,15 @@
+/* Your button CSS file */
+.btn-primary{
+    display: inline-block;
+    background-color: #1EDD88;
+    width: 82px;
+    height: 22px;
+    padding: 16px 36px;
+    border-radius: 50px 50px;
+    font-size: medium;
+    font-weight:650px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+
+}

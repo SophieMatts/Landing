@@ -1,0 +1,29 @@
+a {
+
+  text-decoration: none;
+  font-size: 30px;
+  color: #1EDD88;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  text-align: center;
+  width: 1.25em;
+}
+a:hover {
+  color:#7C83FD
+}
+
+.list-inline{
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.list-inline li{
+  display: inline-block;
+  padding: 0px;
+  /* align-items: center; */
+}
